@@ -9,7 +9,7 @@ Run `npm i`
 
 Run `npm run build && npm start`  
 
-You can navigate to localhost:3000 to see a regular embed working and then navigate to localhost:3000/custom.html to see the regular embed with the loader script
+You can navigate to `http://localhost:3000` to see a regular embed code working, and then navigate to `http://localhost:3000/custom.html` to see the embed code with the loader script
 
 ## License
 
